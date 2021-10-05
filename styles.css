@@ -1,34 +1,3 @@
-body{
-background-color: #B8DFD8;
-margin: 0;
-font-family: 'Montserrat', sans-serif;
-}
-hr{
-border-style: none;
-border-top-style: dotted ;
-border-color: #FFF8E5;
-border-width: 5px;
-width: 4%;
-margin: 40px auto;
-border-bottom: none;
-
-}
-h1{
-  color: #112031;
-  margin-top: 0;
-}
-h3{
-  color: #112031;
-}
-div{
-  background-color: #B8DFD8;
-  margin: auto;
-}
-.middle-container{
-  width: 50%;
-  margin: 65px auto 65px auto;
-  line-height: 2;
-}
 .pro{
   float: left;
   margin-right: 30px;
@@ -39,7 +8,4 @@ div{
 }.cyber{
   float: left;
   margin-right: 30px;
-}
-.computer{
-margin-bottom: 15px;
 }
