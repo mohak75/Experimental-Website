@@ -1,11 +1,42 @@
-.pro{
-  float: left;
-  margin-right: 30px;
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F0A500;
 }
-.web{
-  float: left;
-  margin-right: 30px;
-}.cyber{
-  float: left;
-  margin-right: 30px;
+.title{
+  font-style: italic;
+  font-weight: bold;
+}
+.img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+}
+.img2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+hr{
+border-style: none;
+border-top-style: dotted ;
+border-width: 5px;
+width: 4%;
+margin: 40px auto;
+border-bottom: none;
+}
+.contact{
+  text-align: center;
 }
